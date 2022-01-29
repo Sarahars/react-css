@@ -1,12 +1,12 @@
 // How to use css in react !!
 
 import "./root.css"
-function Navbar (){
+function Navbar (props){
     return (
         <nav>
             <div className="inner-container">
                 <h3>Shop</h3>
-                <p>total price : 12 $</p>
+                <p>total price : {props.totalPrice} $</p>
             </div>
         </nav>
         );

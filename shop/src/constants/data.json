@@ -1,0 +1,51 @@
+{
+    "list": [
+        {
+            "name": "Iphone 13 pro",
+            "price": 1100,
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BxK2_Qeo1LIiRk2WJxjSTMm5sMSFHvYXtw&usqp=CAU"
+        },
+        {
+            "name": "Iphone 12 pro",
+            "price": 1000,
+            "image": "https://www-file.huawei.com/-/media/corp2020/home/cbg/1221/2-p50-pro-m.jpg"
+          },
+          {
+            "name": "Galaxy s10",
+            "price": 800,
+            "image": "https://cdn.shopify.com/s/files/1/0392/7428/3139/products/asd1d_345x345@2x.jpg?v=1626319081"
+          },
+          {
+            "name": "mac book pro 2014",
+            "price": 1100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxc8NJnc88_s3NRr9yy6OGCxlinHBZReVsQ&usqp=CAU"
+          },
+          {
+            "name": "DELL I5",
+            "price": 1000,
+            "image": "https://pricespy-75b8.kxcdn.com/product/standard/280/5718227.jpg"
+             
+          },
+          {
+            "name": "Galaxy s20",
+            "price": 800,
+            "image":"https://www.vodafone.com.au/images/devices/apple/iphone-13-mini/iphone-13-mini-pink-feature1-m.jpg"
+          },
+          {
+            "name": "Iphone 13 pro",
+            "price": 1100,
+            "image": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6-5g-oversea/listpage/Phone-list-product-list-Arctic-Blue-427-x-600.png.thumb.webp"
+          },
+          {
+            "name": "Iphone x pro",
+            "price": 1000,
+            "image": "https://i.guim.co.uk/img/media/c699b4c005a687be3bae6784b8731686d5b111c1/116_314_4331_2598/master/4331.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=ba9ec63b07e07feb071fe552b3b0eb1e"
+          },
+          {
+            "name": "Galaxy note 20",
+            "price": 800,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI458Yb3v0uODvrrThJ3FgLl_KQ1FmZPAcNw&usqp=CAU"
+          }
+    ]
+}
+
